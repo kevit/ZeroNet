@@ -8,5 +8,5 @@ setup(name='ZeroNet',
       author='kevit',
       author_email='root@kevit.info',
       url='zeronet',
-      packages=['distutils', 'distutils.command'],
+      packages=[''],
      )
